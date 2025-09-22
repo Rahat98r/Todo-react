@@ -1,7 +1,7 @@
 # Daily Task v1 ✅
 
 A simple and responsive **Todo App** built with React, designed to help you keep track of your daily tasks.  
-Deployed on [Vercel](https://dailytaskv1.vercel.app).
+Deployed on [Todo App](https://dailytaskv1.vercel.app).
 
 ---
 
